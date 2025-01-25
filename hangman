@@ -1,5 +1,5 @@
 import random
-#Below are custom modules
+#Below are custom modules, not included in this code
 import hangman_words
 import hangman_art
 lives = 6
