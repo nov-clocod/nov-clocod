@@ -1,5 +1,5 @@
 import random
-#custom art module
+#custom art module, not included in this code
 from art import logo
 
 def deal_card():
