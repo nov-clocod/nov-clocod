@@ -1,4 +1,4 @@
-#custom game data annd art modules
+#custom game data annd art modules, not included in this code
 import art
 from game_data import data
 import random
